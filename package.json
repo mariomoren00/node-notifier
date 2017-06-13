@@ -1,0 +1,23 @@
+{
+  "name": "notifier",
+  "version": "1.0.0",
+  "description": "A Node.js module for sending notifications",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariomoren00/node-notifier.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariomoren00/node-notifier/issues"
+  },
+  "homepage": "https://github.com/mariomoren00/node-notifier#readme",
+  "dependencies": {
+    "node-notifier": "^5.1.2"
+  }
+}
